@@ -1,1 +1,1 @@
-GitHub Pages - https://nebeyi.github.io/Zanoza/
+GitHub Pages - https://frontendcraft-cmd.github.io/Zanoza/
